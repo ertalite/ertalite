@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ertalite</h1>
+<h1 align="center">I'm ertalite</h1>
 <h3 align="center">French uni student</h3>
 
 
